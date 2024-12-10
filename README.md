@@ -37,9 +37,6 @@ Copiar código
 java Principal
 ✨ Exemplo de Uso
 Menu inicial:
-
-plaintext
-Copiar código
 1. Adicionar moeda  
 2. Remover moeda  
 3. Listar moedas  
