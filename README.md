@@ -34,9 +34,10 @@ javac *.java
 Execute o programa:
 bash
 Copiar código
-java Principal
-✨ Exemplo de Uso
 
+java Principal
+
+✨ Exemplo de Uso
 Menu inicial:
 1. Adicionar moeda  
 2. Remover moeda  
