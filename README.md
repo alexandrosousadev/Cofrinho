@@ -41,6 +41,4 @@ Menu inicial:
 2. Remover moeda  
 3. Listar moedas  
 4. Calcular valor total em Real  
-5. Sair  
-📄 Licença
-Este é um projeto acadêmico e não possui uma licença formal.
+5. Sair  📄 Licença Este é um projeto acadêmico e não possui uma licença formal.
